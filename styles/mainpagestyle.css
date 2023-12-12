@@ -680,3 +680,13 @@ button:hover {
     }
 
 }
+.logo {
+    padding: 0px 15px;
+    height: 10vh; 
+}
+.banner {
+    margin: 0;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
